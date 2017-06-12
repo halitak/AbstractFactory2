@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AbstractFactory2\AbstractFactory2\bin\Debug\AbstractFactory2.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AbstractFactory2\AbstractFactory2\obj\Debug\AbstractFactory2.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AbstractFactory2\AbstractFactory2\bin\Debug\AbstractFactory2.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AbstractFactory2\AbstractFactory2\bin\Debug\AbstractFactory2.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AbstractFactory2\AbstractFactory2\obj\Debug\AbstractFactory2.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AbstractFactory2\AbstractFactory2\obj\Debug\AbstractFactory2.pdb
